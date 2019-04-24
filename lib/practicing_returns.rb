@@ -13,7 +13,7 @@ def hello(array)
 
 hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
 
-<!--there are no lights that say passed local test only submit pull request -->
+#there are no lights that say passed local test only submit pull request
 
 
 
